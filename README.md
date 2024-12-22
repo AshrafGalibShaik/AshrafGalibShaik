@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ashrafgalibshaik@gamil.com**
 
-- 📄 Nah, I give jobs to people
+- 📄 Experience? Nah, I provide jobs to people
 
 - ⚡ Fun fact **Why code everything from scratch when AI exists? I’m not a loser, Lmfao**
 
