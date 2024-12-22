@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Ashraf Galib Shaik</h1>
 <h3 align="center">lmao, I just code for fun</h3>
 
-- 👯 I’m looking to collaborate on [RealRise](Back-end/Ai&ML engineer)
+- 👯 I’m looking to collaborate on RealRise(Back-end/Ai&ML engineer)
 
 - 📫 How to reach me **ashrafgalibshaik@gamil.com**
 
-- 📄 Know about my experiences [Nah, I give jobs to people](Nah, I give jobs to people)
+- 📄 Nah, I give jobs to people
 
 - ⚡ Fun fact **Why code everything from scratch when AI exists? I’m not a loser, Lmfao**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashraf-galib-shaik-286a74322/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashraf-galib-shaik-286a74322/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashraf-galib-shaik-286a74322/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashraf-galib-shaik-286a74322/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
