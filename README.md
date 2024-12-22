@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Ashraf Galib Shaik</h1>
-<h3 align="center">lmao, I just code for fun</h3>
+<h3 align="center">Founder and CEO of RealRise and VIVIDRA</h3>
+<h4 align="center">lmao, I just code for fun</h4>
 
 - 👯 I’m looking to collaborate on RealRise(Back-end/Ai&ML engineer)
 
